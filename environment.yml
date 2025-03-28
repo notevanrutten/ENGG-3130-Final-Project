@@ -1,0 +1,9 @@
+name: final-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - jupyterlab=4
+  - matplotlib
+  - numpy
+  - seaborn
