@@ -1,6 +1,6 @@
 # ENGG-3130-Final-Project
 
-Description goes here.
+This simulation models a nutrient-based variant of the Sugarscape environment, where agents navigate a 2D grid to gather macronutrients (protein, carbohydrates, and fats) while maintaining metabolic health and body composition.
 
 ## Usage Instructions
 
